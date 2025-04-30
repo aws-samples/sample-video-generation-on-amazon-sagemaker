@@ -1,0 +1,12 @@
+streamlit
+langchain_aws 
+langchain
+boto3
+langchain_core
+constructs
+requests
+uvicorn
+fastapi
+pydantic
+python-multipart
+langchain-community

@@ -1,0 +1,10 @@
+diffusers==0.31.0
+transformers==4.48.2
+sentencepiece==0.2.0
+hf_transfer==0.1.9
+accelerate==0.33.0
+torchao==0.8.0
+bitsandbytes==0.45.1
+opencv-python-headless==4.11.0.86
+imageio==2.37.0
+imageio-ffmpeg==0.6.0
