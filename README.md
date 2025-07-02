@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This comprehensive guide details a sophisticated AWS CDK application that deploys a Streamlit web application within the Amazon Elastic Container Service (ECS) using Fargate. The infrastructure is designed with security, scalability, and reliability at its core, incorporating various AWS services to create a robust production-ready environment. This is the codebase for the blog post [Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX](https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-video-generator-using-amazon-sagemaker-ai-and-cogvideox/).
+This comprehensive guide details a sophisticated AWS CDK application that deploys a Streamlit web application within the Amazon Elastic Container Service (ECS) using Fargate. The infrastructure is designed with security, scalability, and reliability at its core, incorporating various AWS services to create a robust production-ready environment. This is the codebase for the AWS blog post [Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX](https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-video-generator-using-amazon-sagemaker-ai-and-cogvideox/).
 
 ## Architectural Overview
 
